@@ -1,6 +1,6 @@
 # Web Development Project 5 - *WeatherApp*
 
-Submitted by: **RaviTejaGattu**
+Submitted by: **Ravi Teja Gattu**
 
 This web app: **WeatherApp**
 
@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/a3d391ce-453a-4d16-894a-d003dcc88f92
 
 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/RaviTejaGattu1/WeatherApp/blob/main/Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
